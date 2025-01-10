@@ -1,4 +1,4 @@
- # AKTA Visualization
+ * AKTA Visualization *
  
  ## Background
  
