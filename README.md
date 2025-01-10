@@ -18,7 +18,9 @@ Based on these inputs, the code generates a graph of absorbance (mAU) vs fractio
 ## Required Libraries
 
 --**Pandas**: For data manipulation and reading Excel files.
+
 --**Matplotlib/Seaborn**: For generating plots and graphs.
+
 -**OpenPyXL**: For interacting with Excel files.
 -**NumPy**: For efficient numerical operations.
 -**Tkinter**: for graphical user interface. 
