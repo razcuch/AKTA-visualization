@@ -15,4 +15,26 @@ The code takes the following inputs from the user:
 the column and row for mAU (absorbance), fraction (ml), and wells fraction, two well numbers, and an option to select a color.
 Based on these inputs, the code generates a graph of absorbance (mAU) vs fraction (ml), highlighting the positions of the specified wells with respect to the ml values.
 
+## Required Libraries
+
+-**Pandas**: For data manipulation and reading Excel files.
+-**Matplotlib/Seaborn**: For generating plots and graphs.
+-**OpenPyXL**: For interacting with Excel files.
+-**NumPy**: For efficient numerical operations.
+-**Tkinter**: for graphical user interface. 
+
+## User-specified parameters
+
+-Columns and rows for mAU, fraction, and well data.
+-Well numbers to highlight.
+-Color selection for graph highlights.
+
+## Visualization
+
+-Plot absorbance (mAU) vs. fraction volume (mL).
+-Highlight specified well fractions with the selected color.
+
+
+
+
 
