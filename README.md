@@ -20,32 +20,32 @@ Based on these inputs, the code generates a graph of absorbance (mAU) vs fractio
 ---
 ## Required Libraries
 
--**Pandas**: For data manipulation and reading Excel files.
+- **Pandas**: For data manipulation and reading Excel files.
 
--**Matplotlib/Seaborn**: For generating plots and graphs.
+- **Matplotlib/Seaborn**: For generating plots and graphs.
 
--**OpenPyXL**: For interacting with Excel files.
+- **OpenPyXL**: For interacting with Excel files.
 
--**NumPy**: For efficient numerical operations.
+- **NumPy**: For efficient numerical operations.
 
 -**Tkinter**: for graphical user interface. 
 
 ---
 ## User-specified parameters
 
--Columns and rows for mAU, fraction, and well data.
+- Columns and rows for mAU, fraction, and well data.
 
--Well numbers to highlight.
+- Well numbers to highlight.
 
--Color selection for graph highlights.
+- Color selection for graph highlights.
 
 
 ---
 ## Visualization
 
--Plot absorbance (mAU) vs. fraction volume (mL).
+- Plot absorbance (mAU) vs. fraction volume (mL).
 
--Highlight specified well fractions with the selected color.
+- Highlight specified well fractions with the selected color.
 
 
 
