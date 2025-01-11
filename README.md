@@ -9,7 +9,6 @@ The AKTA equipped with precise pumps, UV detectors and a fraction collectors. Du
 These wells allow for systematic collection and storage of the eluates, which can then be analyzed to determine the protein concentration and purity. The data can be summarized with Excel file and analyzed by the user. 
 The Excel file contains data detailing the process progression, correlating absorption levels to the volume (in mL) processed by the AKTA system, with results stratified by well distribution.
 
-for more infurmation about [AKTA PURE](https://www.cytivalifesciences.com/en/us/shop/chromatography/chromatography-systems/akta-pure-p-05844?srsltid=AfmBOooQRtZr9hRJpBEepqUqFR4lCgQMxoyWQ5q3eMqgaVnk4kUH_Lf2)
 
 ---
 ## Functionality
