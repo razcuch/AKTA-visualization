@@ -29,8 +29,8 @@ Based on these inputs, the code generates a graph of absorbance (mAU) vs fractio
 ---
 ## User-specified parameters
 
-- Columns and rows for mAU, fraction, and well data.
-- Well numbers to highlight.
+- start and end points (ml) 
+- Wells numbers to highlight.
 - Color selection for graph highlights.
 
 
@@ -38,7 +38,7 @@ Based on these inputs, the code generates a graph of absorbance (mAU) vs fractio
 ## Visualization
 
 - Plot absorbance (mAU) vs. fraction volume (mL).
-- Highlight specified well fractions with the selected color.
+- Highlight specified wells fractions with the selected color.
 
   ---
   ## Benefits
@@ -47,6 +47,17 @@ Based on these inputs, the code generates a graph of absorbance (mAU) vs fractio
   - User-friendly for researchers
 
   ---
+
+  ## Example
+
+  The needed input to the GUI:
+  - Enter starting ml value: 10
+  - Enter ending ml value: 20
+  - Enter strting fraction name: 5.C.9
+  - Enter ending fraction name: 5.D.2
+  - Pick fill color: chose color from the list
+ 
+  - 
   This Python tool is designed to simplify the manual process of creating graphs from AKTA Excel data. It provides an efficient and user-friendly solution for visualizing absorbance (mAU) vs. fraction volume (mL) graphs, saving time and enhancing data analysis accuracy for researchers. 
 
 
