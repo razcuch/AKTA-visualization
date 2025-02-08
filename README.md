@@ -50,11 +50,12 @@ Based on these inputs, the code generates a graph of absorbance (mAU) vs fractio
 
   ## Example
 
-  The needed input to the GUI:
+  Once running the project, a new window will appear, here is an example for the user input:
+  - Choose AKTA file that is relevant for you (you can use the one in this repo)
   - Enter starting ml value: 10
   - Enter ending ml value: 20
-  - Enter strting fraction name: 5.C.9
-  - Enter ending fraction name: 5.D.2
+  - Enter strting fraction name: 5.C.9 (insert in capital letters)
+  - Enter ending fraction name: 5.D.2 (insert in capital letters)
   - Pick fill color: chose color from the list
  
     ![graph example](https://github.com/user-attachments/assets/23f477ab-9501-48c0-bfa9-1cf75d5323fe) 
